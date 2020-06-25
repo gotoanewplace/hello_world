@@ -1,3 +1,4 @@
 # hello_world
+delete all
 
-This is a readme file which is used to learn about github.
+hahaha~
